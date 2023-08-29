@@ -1,0 +1,10 @@
+Backend
+cd folder path 
+
+npx run build
+
+npm run start:dev
+
+set env check in seeder
+
+npx ts-node invoice.ts
